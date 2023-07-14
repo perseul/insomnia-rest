@@ -1,0 +1,32 @@
+_id: req_2d401f7974244338bd1a8e67d3585347
+type: Request
+parentId: fld_9348f21289454686a3828bb2ac37eabf
+modified: 1687547873464
+created: 1687547087838
+url: http://localhost:3001/api/products
+name: add products
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+      "title":"playstation 5 teste",
+    	"description":"playstation 5",				 
+      "avatar":"https://images.kabum.com.br/produtos/fotos/sync_mirakl/181395/          Console-Playstation-5-825GB-Leitor-Digital-PS5-_1658863170_g.jpg",
+    	"value":"50000",  
+    	"url":"https://pt.wikipedia.org/wiki/PlayStation_5"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1687546817671
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

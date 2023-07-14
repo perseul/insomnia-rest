@@ -1,0 +1,21 @@
+_id: req_03949116f06b40198111ff0d27563d84
+type: Request
+parentId: fld_9348f21289454686a3828bb2ac37eabf
+modified: 1687547953677
+created: 1687547114374
+url: http://localhost:3001/api/products/6487abe9abe87c7e250e7329
+name: delete products
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1687546817596
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
